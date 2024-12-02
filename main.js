@@ -1,1 +1,1 @@
-console.log('Эту надпись я оставил через GitHub');
+console.log('Эту надпись я оставил через WebStorm');
