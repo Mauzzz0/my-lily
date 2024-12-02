@@ -1,7 +1,1 @@
-console.log(123, 'bla bla bla');
-console.log(123, 'bla bla bla');
-console.log(123, 'bla bla bla');
-console.log(123, 'bla bla bla');
-console.log(123, 'bla bla bla');
-console.log(123, 'bla bla bla');
-console.log(123, 'bla bla bla');
+console.log('Эту надпись я оставил через GitHub');
