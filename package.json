@@ -1,5 +1,8 @@
 {
   "name": "my-lily",
   "version": "1.0.0",
-  "scripts": {}
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
