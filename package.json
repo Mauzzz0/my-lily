@@ -1,8 +1,13 @@
 {
   "name": "my-lily",
   "version": "1.0.0",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node ./src/main.ts",
+    "start:prod": "node ./dist/main.js"
+  },
   "devDependencies": {
     "typescript": "^5.7.2"
   }
 }
+
